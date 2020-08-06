@@ -25,8 +25,6 @@
   <div class="card-body">
     <h4 class="card-title">Client Antrian</h4>
     <h4 class="card-title">TELLER</h4>
-
-
     <div class="container">
         
         <div class="jumbotron">
